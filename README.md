@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" src="assets/embedded-board.svg" width="240" alt="A circuit board illustration with a microcontroller and connected signals">
+<img align="right" src="assets/embedded-board.svg" width="28%" alt="A circuit board illustration with a microcontroller and connected signals">
 
 ### About me
 
