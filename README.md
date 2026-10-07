@@ -58,6 +58,20 @@ A selection of the languages, platforms, and tools I use across my work.
 
 ---
 
+## Training & credentials
+
+<a href="https://www.credly.com/go/XGZy7YIA">
+  <img src="assets/aws-academy-data-engineering.png" width="160" alt="AWS Academy Graduate - Data Engineering - Training Badge">
+</a>
+
+**AWS Academy Graduate - Data Engineering - Training Badge**
+
+Completed 40 hours of training.
+
+[View digital badge on Credly](https://www.credly.com/go/XGZy7YIA)
+
+---
+
 ### Connect with me
 
 <p>
