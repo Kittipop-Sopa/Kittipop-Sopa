@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Engineering Student · Khon Kaen University, Thailand</b><br>
-  Embedded Systems &nbsp; / &nbsp; Hardware &nbsp; / &nbsp; CAD &amp; 3D Printing
+  Software &nbsp; / &nbsp; Hardware &nbsp; / &nbsp; Design &nbsp; / &nbsp; Automation
 </p>
 
 <br>
@@ -11,24 +11,29 @@
 
 ### About me
 
-I enjoy building things that connect **software with real hardware** — from reading sensors and writing firmware to designing circuits and 3D-printed parts.
+I enjoy solving problems across **software, hardware, and design**, bringing different parts together to build practical systems. I'm always curious about new technologies and ways to make things work better.
 
-- Interested in **embedded systems, hardware development, and automation**.
-- Working with **ESP32, STM32, and Raspberry Pi**.
-- Exploring **PCB design, mechanical design, and practical prototyping**.
+- **Software & computing:** programming, databases, and networking.
+- **Hardware & integration:** electronics, embedded systems, and connecting hardware with software.
+- **Design & prototyping:** circuit design, mechanical design, and turning ideas into physical prototypes.
+- Interested in **automation, robotics, and improving how systems work together**.
 
 <br clear="both">
 
 ---
 
-### Languages
+## Languages & tools
+
+A selection of the languages, platforms, and tools I use across my work.
+
+#### Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java&amp;theme=dark" height="48" alt="C, C++, Python, Java">
 </p>
 <p><sub>C &nbsp; · &nbsp; C++ &nbsp; · &nbsp; Python &nbsp; · &nbsp; Java</sub></p>
 
-### Embedded platforms
+#### Hardware platforms
 
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP32">
@@ -36,7 +41,7 @@ I enjoy building things that connect **software with real hardware** — from re
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi">
 </p>
 
-### Design & prototyping
+#### Design & prototyping
 
 <p>
   <img src="https://img.shields.io/badge/SOLIDWORKS-C62828?style=for-the-badge" alt="SolidWorks">
@@ -44,7 +49,7 @@ I enjoy building things that connect **software with real hardware** — from re
   <img src="https://img.shields.io/badge/3D_Printing-147D75?style=for-the-badge" alt="3D Printing">
 </p>
 
-### Development tools
+#### Development tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,mysql,vscode,arduino&amp;theme=dark" height="48" alt="Git, MySQL, Visual Studio Code, Arduino IDE">
